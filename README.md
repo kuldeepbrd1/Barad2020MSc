@@ -19,8 +19,8 @@ Meanwhile you can explore the resources from my [repositories](https://github.co
 
 ----- 
 To do:
--[ ] Verify code generalization for spacecraft pose estimation in HRNet and SSDLite
--[ ] Update Tensorflow OD API repo from drive
--[ ] Add Colab notebooks
--[ ] Data pipeline files
--[ ] Add dataset augmentation code
+- [ ] Verify code generalization for spacecraft pose estimation in HRNet and SSDLite
+- [ ] Update Tensorflow OD API repo from drive
+- [ ] Add Colab notebooks
+- [ ] Data pipeline files
+- [ ] Add dataset augmentation code
