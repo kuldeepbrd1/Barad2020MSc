@@ -26,3 +26,4 @@ To do:
 - [ ] Add Colab notebooks
 - [ ] Data pipeline files
 - [ ] Add dataset augmentation code
+- [ ] Notes/Resources?
