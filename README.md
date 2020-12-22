@@ -30,7 +30,9 @@ _I will try to incrementally improve documentation and code+instructions as quic
 
 
 -------------------------------
+## Navigation Framework: Architectural Overview
 
+![navigation framework architecture high level]https://github.com/kuldeepbrd1/Barad2020MSc/blob/master/framework_architecture.png
 
 ## Thesis
 You can download my thesis report, in full directly from links below:
