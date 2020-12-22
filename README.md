@@ -1,7 +1,7 @@
 # Robust Navigation Framework for Proximity Operations around Uncooperative Spacecraft  
 ### Resources for CNN-based spacecraft navigation around uncooperative spacecraft
 
-Jump to: [Software Resources](##software-resources) | [Thesis Report](https://github.com/kuldeepbrd1/Barad2020MSc#text-resources) | [Citation](https://github.com/kuldeepbrd1/Barad2020MSc#citation-bibtex)
+Jump to: [Software Resources](#software-resources) | [Thesis Report](https://github.com/kuldeepbrd1/Barad2020MSc#text-resources) | [Citation](https://github.com/kuldeepbrd1/Barad2020MSc#citation-bibtex)
 
 
 This repo contains resources from my Masters Thesis. A lot of them build upon existing works and repos, without which this work wouldn't be at all possible (See individual repos and thesis bibliography for details). 
