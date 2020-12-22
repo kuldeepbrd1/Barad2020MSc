@@ -44,6 +44,7 @@ Meanwhile you can explore the resources from my [repositories](https://github.co
 - [ ] Data pipeline files
 - [ ] Add dataset augmentation code
 - [ ] Notes/Resources?
+- [ ] Add links to external resources/articles/news?
 
 
 
@@ -58,4 +59,4 @@ For now you can only cite my masters thesis:
     year={2020}
 }
 ```
-NOTE: Please don't forget citing primary authors/works on which the resources above are built.
+NOTE: Please don't forget to cite primary authors/works on which the resources above are built.
