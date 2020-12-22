@@ -59,7 +59,9 @@ Meanwhile you can explore the resources from my [repositories](https://github.co
 
 
 For now you can only cite my masters thesis:
+
 (I flopped the manuscript submission deadline for the accepted entry in [IAC astrodynamics symposium](https://iafastro.directory/iac/browse/IAC-20/C1/1/) due to COVID-19 induced academic, mental and economic crises. But well, I made it alive :)
+
 ```
 @mastersthesis{Barad2020Msc,
     author={Barad, Kuldeep Rambhai},
