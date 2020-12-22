@@ -1,7 +1,7 @@
 # Robust Navigation Framework for Proximity Operations around Uncooperative Spacecraft  
 ### Resources for CNN-based spacecraft navigation around uncooperative spacecraft
 
-Jump to: [Software Resources](https://github.com/kuldeepbrd1/Barad2020MSc#code-resources) | [Thesis Report](https://github.com/kuldeepbrd1/Barad2020MSc#text-resources) | [Citation](https://github.com/kuldeepbrd1/Barad2020MSc#citation-bibtex)
+Jump to: [Software Resources](##software-resources) | [Thesis Report](https://github.com/kuldeepbrd1/Barad2020MSc#text-resources) | [Citation](https://github.com/kuldeepbrd1/Barad2020MSc#citation-bibtex)
 
 
 This repo contains resources from my Masters Thesis. A lot of them build upon existing works and repos, without which this work wouldn't be at all possible (See individual repos and thesis bibliography for details). 
@@ -32,13 +32,13 @@ _I will try to incrementally improve documentation and code+instructions as quic
 -------------------------------
 
 
-## [Thesis](#text-resources) 
+## Thesis
 You can download my thesis report, in full directly from links below:
   - [PDF (final version 20/09/2020)](https://master-thesis-barad-2020.s3.eu-central-1.amazonaws.com/Barad2020MSc_submission.pdf)
   - [TU Delft Repositories (Last edit not incorporated)](https://repository.tudelft.nl/islandora/object/uuid%3A6dbf6f1d-b41b-42c1-ad78-619a6c6cf071?collection=education)
 
 
-## [Software Resources](#code-resources)
+## Software Resources
 
 - Keypoint Detection: [HRNet (adapted)](https://github.com/kuldeepbrd1/HRNet-spacecraft-pose)
 - Object Detection: [Tensorflow OD API MobileNet-SSDLite (adapted)](https://github.com/kuldeepbrd1/models) (needs updating)
@@ -55,7 +55,7 @@ Meanwhile you can explore the resources from my [repositories](https://github.co
 
 ----------
 
-## [Citation](#citation-bibtex)
+## Citation
 
 
 For now you can only cite my masters thesis:
