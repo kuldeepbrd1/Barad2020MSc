@@ -1,6 +1,7 @@
-# Barad2020MSc
+# Robust Navigation Framework for Proximity Operations around Uncooperative Spacecraft  
+## Resources from my Masters Thesis 
 
-Robust Navigation Framework for Proximity Operations around Uncooperative Spacecraft  
+
   - [PDF (final version 20/09/2020)](https://master-thesis-barad-2020.s3.eu-central-1.amazonaws.com/Barad2020MSc_submission.pdf)
   - [TU Delft Repositories (Last edit not incorporated)](https://repository.tudelft.nl/islandora/object/uuid%3A6dbf6f1d-b41b-42c1-ad78-619a6c6cf071?collection=education)
 
