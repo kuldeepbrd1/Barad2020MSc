@@ -7,10 +7,12 @@ Robust Navigation Framework for Proximity Operations around Uncooperative Spacec
 
 Resources for CNN-based spacecraft navigation around uncooperative spacecraft.
 
-Keypoint Detection: [HRNet](https://github.com/kuldeepbrd1/HRNet-spacecraft-pose)
-Object Detection: [Tensorflow OD API MobileNet-SSDLite](https://github.com/kuldeepbrd1/models)
-Pose Estimation: [Modified MLPnP solver](https://github.com/kuldeepbrd1/modified_MLPnP)
-Dataset Augmentation ...
+
+- Keypoint Detection: [HRNet](https://github.com/kuldeepbrd1/HRNet-spacecraft-pose)
+- Object Detection: [Tensorflow OD API MobileNet-SSDLite](https://github.com/kuldeepbrd1/models)
+- Pose Estimation: [Modified MLPnP solver](https://github.com/kuldeepbrd1/modified_MLPnP)
+- Dataset Augmentation ...
+- Filter ...
 
 Other links will be updated as soon as I stop distracting myself with a dozen unfinished projects. 
 
