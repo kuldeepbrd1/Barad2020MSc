@@ -1,4 +1,7 @@
 # Robust Navigation Framework for Proximity Operations around Uncooperative Spacecraft  
+
+
+
 ### Resources for CNN-based spacecraft navigation around uncooperative spacecraft
 
 Jump to: [Software Resources](#software-resources) | [Thesis Report](#thesis) | [Citation](#citation)
@@ -32,13 +35,7 @@ _I will try to incrementally improve documentation and code+instructions as quic
 -------------------------------
 ## Navigation Framework: Architectural Overview
 
-![navigation framework architecture high level]https://github.com/kuldeepbrd1/Barad2020MSc/blob/master/framework_architecture.png
-
-## Thesis
-You can download my thesis report, in full directly from links below:
-  - [PDF (final version 20/09/2020)](https://master-thesis-barad-2020.s3.eu-central-1.amazonaws.com/Barad2020MSc_submission.pdf)
-  - [TU Delft Repositories (Last edit not incorporated)](https://repository.tudelft.nl/islandora/object/uuid%3A6dbf6f1d-b41b-42c1-ad78-619a6c6cf071?collection=education)
-
+![navigation framework architecture high level](https://github.com/kuldeepbrd1/Barad2020MSc/blob/master/framework_architecture.png)
 
 ## Software Resources
 
@@ -51,6 +48,12 @@ You can download my thesis report, in full directly from links below:
 Other links will be updated as soon as I stop distracting myself with a dozen unfinished projects. 
 
 Meanwhile you can explore the resources from my [repositories](https://github.com/kuldeepbrd1?tab=repositories)
+
+
+## Thesis
+You can download my thesis report, in full directly from links below:
+  - [PDF (final version 20/09/2020)](https://master-thesis-barad-2020.s3.eu-central-1.amazonaws.com/Barad2020MSc_submission.pdf)
+  - [TU Delft Repositories (Last edit not incorporated)](https://repository.tudelft.nl/islandora/object/uuid%3A6dbf6f1d-b41b-42c1-ad78-619a6c6cf071?collection=education)
 
 
 
