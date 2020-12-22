@@ -4,13 +4,28 @@
 
 
 This repo contains resources from my Masters Thesis. A lot of them build upon existing works and repos, without which this work wouldn't be at all possible (See individual repos and thesis bibliography for details). 
-Although this work received a great feedback and result, I believe it's still only a tiny step in understanding how to incorporate deep learning methods for spacecraft on-board operation. 
+Although this work received a great feedback and result, I believe it's still only a tiny step in understanding how to incorporate deep learning methods for spacecraft on-board operation. However, the resources may still be valuable to learn or build upon.
 
 
 The resources (code+text) here are meant for:
-1. To help (aerospace) beginners trying to break into deep learning for uncooperative pose estimation.
+1. (aerospace etc) beginners trying to break into deep learning for uncooperative pose estimation.
 2. Intermediate practitioners who would like to quickly try out a method, tool or algorithm for pose estimation listed below without hassle.
 3. (Probably) Established researchers to adapt, compare, evaluate or critique the methodology/results.
+
+_I will try to incrementally improve documentation and code+instructions as quickly as I can from the file dump I have from the thesis. Feel free to raise an issue if you need something specific._
+
+----------
+
+
+## To do list :
+- [ ] Verify code generalization for spacecraft pose estimation in HRNet and SSDLite 
+- [ ] Update Tensorflow OD API repo from drive
+- [ ] Add Colab example notebooks
+- [ ] Data pipeline files
+- [ ] Add dataset augmentation code
+- [ ] Notes/Resources?
+- [ ] Add links to external resources/articles/news?
+
 
 -------------------------------
 
@@ -34,17 +49,6 @@ Other links will be updated as soon as I stop distracting myself with a dozen un
 Meanwhile you can explore the resources from my [repositories](https://github.com/kuldeepbrd1?tab=repositories)
 
 
-----------
-
-
-## To do:
-- [ ] Verify code generalization for spacecraft pose estimation in HRNet and SSDLite
-- [ ] Update Tensorflow OD API repo from drive
-- [ ] Add Colab notebooks
-- [ ] Data pipeline files
-- [ ] Add dataset augmentation code
-- [ ] Notes/Resources?
-- [ ] Add links to external resources/articles/news?
 
 
 ----------
