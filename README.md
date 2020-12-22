@@ -1,5 +1,5 @@
 # Robust Navigation Framework for Proximity Operations around Uncooperative Spacecraft  
-###Resources for CNN-based spacecraft navigation around uncooperative spacecraft
+### Resources for CNN-based spacecraft navigation around uncooperative spacecraft
 
 
 
