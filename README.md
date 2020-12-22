@@ -9,14 +9,18 @@ Resources for CNN-based spacecraft navigation around uncooperative spacecraft.
 
 Keypoint Detection: [HRNet](https://github.com/kuldeepbrd1/HRNet-spacecraft-pose)
 Object Detection: [Tensorflow OD API MobileNet-SSDLite](https://github.com/kuldeepbrd1/models)
-Links will be updated shortly. Please stay tuned.
+Pose Estimation: [Modified MLPnP solver](https://github.com/kuldeepbrd1/modified_MLPnP)
+Dataset Augmentation ...
+
+Other links will be updated as soon as I stop distracting myself with a dozen unfinished projects. 
 
 Meanwhile you can explore the resources from my [repositories](https://github.com/kuldeepbrd1?tab=repositories)
 
 
 ----- 
 To do:
-[] Verify code generalization for spacecraft pose estimation in HRNet and SSDLite
-[] Update Tensorflow OD API repo from drive
-[] Add Colab notebooks
-[]
+-[] Verify code generalization for spacecraft pose estimation in HRNet and SSDLite
+-[] Update Tensorflow OD API repo from drive
+-[] Add Colab notebooks
+-[] Data pipeline files
+-[] Add dataset augmentation code
