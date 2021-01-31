@@ -23,19 +23,18 @@ _I will try to incrementally improve documentation and code+instructions as quic
 
 
 ## To do list :
-- [ ] Verify code generalization for spacecraft pose estimation in HRNet and SSDLite 
-- [ ] Update Tensorflow OD API repo from drive
-- [ ] Add Colab example notebooks
-- [ ] Data pipeline files
-- [ ] Add dataset augmentation code
-- [ ] Notes/Resources?
-- [ ] Add links to external resources/articles/news?
+- [ ]  Verify code generalization for spacecraft pose estimation in HRNet and SSDLite 
+- [ ]  Update Tensorflow OD API repo from drive
+- [ ]  Add Colab example notebooks
+- [ ]  Data pipeline files
+- [ ]  Add dataset augmentation code
+- [ ]  Notes/Resources?
+- [ ]  Add links to external resources/articles/news?
 
 
 -------------------------------
 ## Navigation Framework: Architectural Overview
 
-![navigation framework architecture high level](https://github.com/kuldeepbrd1/Barad2020MSc/blob/main/framework_architecture.png)
 <img src=https://github.com/kuldeepbrd1/Barad2020MSc/blob/main/framework_architecture.png>
 ## Software Resources
 
