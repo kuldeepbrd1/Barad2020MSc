@@ -35,7 +35,7 @@ _I will try to incrementally improve documentation and code+instructions as quic
 -------------------------------
 ## Navigation Framework: Architectural Overview
 
-![navigation framework architecture high level](framework_architecture.png)
+![navigation framework architecture high level](https://github.com/kuldeepbrd1/Barad2020MSc/blob/main/framework_architecture.png)
 
 ## Software Resources
 
